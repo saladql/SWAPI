@@ -1,0 +1,3 @@
+https://swapi.co/api/people/:personID
+https://swapi.co/api/starships/:starShipID
+https://swapi.co/api/plantets/:planetID

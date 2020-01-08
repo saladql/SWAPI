@@ -19,3 +19,4 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{}’
 
 
 ### More Docs coming soon!
+![Data Graph](https://github.com/saladql/SWAPI/blob/master/1578246620.png)
